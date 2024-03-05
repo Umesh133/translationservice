@@ -37,7 +37,7 @@ def index_post():
     #endpoint = os.environ['ENDPOINT']
     #location = os.environ['LOCATION']
 
-    key="536dffc711a94343a1b0f895ce4af9ef"
+    key="ca570be3782f4d969709daa51b5f3652"
     endpoint="https://api.cognitive.microsofttranslator.com/"
     location="eastus"
 
