@@ -2,17 +2,18 @@
 ## Project Title: Translation services
 ### Translator
 ## Project Details 
-#### Project Demo URL : translator13.azurewebsites.net
+#### Project Demo URL : https://translator13.azurewebsites.net/
 #### Demo Video URL :
 #### Github Repository URL : https://github.com/Umesh133/translationservice
 #### Industry : Education and Technology
+
 ## Azure Services Used
 ### Core Azure Services:
-### 1. Azure App Service: 
-### 2. Azure Database for MySQL servers: It is used for creating MySQL database to storing and managing users data.
-
+### 1. Azure App Service: Deployed the front end framework and python flask backend environment for text manipulation
+### 2. Azure Database for MySQL servers: Used for creating MySQL database to storing and managing users data.
 ### Azure AI Service
-1. Azure AI Translator Service: Utilized for text translation into multiple languages.
+### 1. Azure AI Translator Service: Utilized for text translation into multiple languages.
+
 ## Problem Statement:
 In a globally connected world, the need for language translation services is paramount. Businesses, organizations, and individuals often encounter language barriers when communicating or sharing information. Traditional translation methods can be time-consuming, expensive, and may lack scalability. Hence, there is a growing demand for efficient, automated translation solutions that can quickly translate texts into multiple languages.
 
