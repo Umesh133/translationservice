@@ -53,7 +53,35 @@ Securely manages keys, secrets, and certificates used in the application.
 
 ## Screenshots
 ### Azure App Service
-Description:
-Azure App Service furnishes a scalable and dependable hosting setting for the Translator, guaranteeing smooth deployment and uninterrupted availability to enhance the user experience..
+Description: Azure App Service provides a managed platform for hosting translation service application With built-in auto-scaling capabilities, App Service allowes 
+application to handle varying levels of traffic efficiently, ensuring a consistent user experience.
+![webapp](https://github.com/Umesh133/translationservice/assets/155448320/8febca02-70ec-45fb-a641-549a5840f52a)
+
+### Azure Database For MySQL :
+Description :Azure Database for MySQL serves as the backend database solution for storing application data, including user preferences, translation history, and other relevant information.
+![database](https://github.com/Umesh133/translationservice/assets/155448320/d2c4fdc9-9ef7-4068-ac59-05a0676f0d6c)
+
+### Azure AI Translator Service:
+Description:Leveraging state-of-the-art neural machine translation technology, Azure Translation Service delivered high-quality translations, ensuring the accuracy and fluency of translated text across languages.
+![Translator](https://github.com/Umesh133/translationservice/assets/155448320/62763f2f-1abc-47e2-a757-4cc4386e115b)
+
+### Working Live Project Display :
+Provided below is a screenshot displaying a live demo of our "Translation Services" project showcasing its seamless translation capabilities, user-friendly interface, and robust performance. For your reference and review.
+![Live working](https://github.com/Umesh133/translationservice/assets/155448320/19e14bbb-8c34-4208-b470-8c5ca958a177)
+![workingresult](https://github.com/Umesh133/translationservice/assets/155448320/24b881f1-11f2-401d-9624-3f7e391baa4e)
+
+### Resource Visualizer :
+Description:Given below the screenshot for resource visualizer provides a comprehensive overview of the architecture and components of our "Translation Services" project and interconnections of various Azure services.
+![Resource visualizer](https://github.com/Umesh133/translationservice/assets/155448320/fd011013-d74c-42a6-8245-232fb390d8b0)
+
+### Final Project Statement :
+Translation Services project aims to provide a comprehensive and efficient solution for language translation needs. Leveraging Microsoft Azure's cloud services, our application offers seamless translation of text into multiple languages with high accuracy and speed. By integrating advanced machine learning algorithms, we ensure the delivery of accurate and fluent translations, catering to diverse linguistic requirements.
+
+
+
+
+
+
+
 
 
