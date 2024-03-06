@@ -39,7 +39,7 @@ Feedback Mechanism: Implement a feedback mechanism for users to provide input on
 
 ## Core Azure Services
 ### Azure App Service:
-Hosts and deploys front-end (HTML, CSS, JS) and back-end (Python-flask) for user interaction.
+Hosts and deploys front-end and back-end (Python-flask) for user interaction.
 
 ### Azure Database for Mysql:
 Used to store and manage user data, ensuring scalability and flexibility
