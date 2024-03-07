@@ -1,7 +1,7 @@
-# Microsoft-Future-Ready-Talent-Virtual-Internship-Project
+# Microsoft-Future-Ready-Talent-Virtual-Internship-Project:
 ## Project Title: Translation services
 ### Translator
-## Project Details 
+## Project Details: 
 #### Project Demo URL : https://translator13.azurewebsites.net/
 #### Demo Video URL : https://drive.google.com/file/d/13llqQ0gbf-a_CP4UjKbZOGJMRbpa30cz/view?usp=sharing
 #### Github Repository URL : https://github.com/Umesh133/translationservice
