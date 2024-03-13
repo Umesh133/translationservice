@@ -37,7 +37,7 @@ Additional Language Support: Continuously expand the list of supported languages
 Offline Translation Support: Develop offline translation capabilities for scenarios where internet connectivity is limited or unavailable.
 Feedback Mechanism: Implement a feedback mechanism for users to provide input on translation quality and suggest improvements.
 
-## Core Azure Services
+## Core Azure Services:
 ### Azure App Service:
 Hosts and deploys front-end and back-end (Python-flask) for user interaction.
 
